@@ -1,0 +1,76 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1646598045775,1748,Climate Request,200,OK,Project Demo 1-3,text,true,,108120,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,235,0,0
+1646598045775,235,Climate Request-0,301,Moved Permanently,Project Demo 1-3,text,true,,1535,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,235,0,0
+1646598046010,1513,Climate Request-1,200,OK,Project Demo 1-3,text,true,,106585,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,1454,0,0
+1646598045769,1796,Climate Request,200,OK,Project Demo 1-11,text,true,,108118,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,224,0,0
+1646598045769,224,Climate Request-0,301,Moved Permanently,Project Demo 1-11,text,true,,1533,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,224,0,0
+1646598045993,1572,Climate Request-1,200,OK,Project Demo 1-11,text,true,,106585,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,1537,0,0
+1646598045956,2605,Climate Request,200,OK,Project Demo 1-20,text,true,,108118,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,284,0,0
+1646598045956,284,Climate Request-0,301,Moved Permanently,Project Demo 1-20,text,true,,1537,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,284,0,0
+1646598046240,2321,Climate Request-1,200,OK,Project Demo 1-20,text,true,,106581,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2261,0,0
+1646598045924,2667,Climate Request,200,OK,Project Demo 1-14,text,true,,108128,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,293,0,0
+1646598045924,293,Climate Request-0,301,Moved Permanently,Project Demo 1-14,text,true,,1541,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,293,0,0
+1646598046217,2374,Climate Request-1,200,OK,Project Demo 1-14,text,true,,106587,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2282,0,0
+1646598045933,2820,Climate Request,200,OK,Project Demo 1-4,text,true,,108126,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,317,0,0
+1646598045933,317,Climate Request-0,301,Moved Permanently,Project Demo 1-4,text,true,,1537,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,317,0,0
+1646598046251,2502,Climate Request-1,200,OK,Project Demo 1-4,text,true,,106589,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2451,0,0
+1646598045911,2908,Climate Request,200,OK,Project Demo 1-25,text,true,,108120,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,395,0,0
+1646598045911,395,Climate Request-0,301,Moved Permanently,Project Demo 1-25,text,true,,1533,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,395,0,0
+1646598046307,2512,Climate Request-1,200,OK,Project Demo 1-25,text,true,,106587,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2446,0,0
+1646598045843,3000,Climate Request,200,OK,Project Demo 1-17,text,true,,108120,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,445,0,0
+1646598045843,446,Climate Request-0,301,Moved Permanently,Project Demo 1-17,text,true,,1537,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,445,0,0
+1646598046289,2554,Climate Request-1,200,OK,Project Demo 1-17,text,true,,106583,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2489,0,0
+1646598046399,2484,Climate Request,200,OK,Project Demo 1-1,text,true,,108132,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,191,0,0
+1646598046399,192,Climate Request-0,301,Moved Permanently,Project Demo 1-1,text,true,,1539,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,191,0,0
+1646598046591,2292,Climate Request-1,200,OK,Project Demo 1-1,text,true,,106593,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2210,0,0
+1646598046254,2730,Climate Request,200,OK,Project Demo 1-23,text,true,,108118,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,211,0,0
+1646598046254,211,Climate Request-0,301,Moved Permanently,Project Demo 1-23,text,true,,1531,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,211,0,0
+1646598046465,2519,Climate Request-1,200,OK,Project Demo 1-23,text,true,,106587,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2441,0,0
+1646598045968,3066,Climate Request,200,OK,Project Demo 1-13,text,true,,108130,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,268,0,0
+1646598045968,277,Climate Request-0,301,Moved Permanently,Project Demo 1-13,text,true,,1537,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,268,0,0
+1646598046245,2789,Climate Request-1,200,OK,Project Demo 1-13,text,true,,106593,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2243,0,0
+1646598045772,3311,Climate Request,200,OK,Project Demo 1-21,text,true,,108136,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,223,0,0
+1646598045772,223,Climate Request-0,301,Moved Permanently,Project Demo 1-21,text,true,,1545,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,223,0,0
+1646598045995,3088,Climate Request-1,200,OK,Project Demo 1-21,text,true,,106591,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3016,0,0
+1646598046420,2836,Climate Request,200,OK,Project Demo 1-12,text,true,,108114,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,134,0,0
+1646598046420,134,Climate Request-0,301,Moved Permanently,Project Demo 1-12,text,true,,1533,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,134,0,0
+1646598046555,2701,Climate Request-1,200,OK,Project Demo 1-12,text,true,,106581,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2641,0,0
+1646598045986,3293,Climate Request,200,OK,Project Demo 1-15,text,true,,108130,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,476,0,0
+1646598045986,476,Climate Request-0,301,Moved Permanently,Project Demo 1-15,text,true,,1543,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,476,0,0
+1646598046462,2817,Climate Request-1,200,OK,Project Demo 1-15,text,true,,106587,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2757,0,0
+1646598046386,2977,Climate Request,200,OK,Project Demo 1-5,text,true,,108130,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,165,0,0
+1646598046386,165,Climate Request-0,301,Moved Permanently,Project Demo 1-5,text,true,,1545,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,165,0,0
+1646598046551,2812,Climate Request-1,200,OK,Project Demo 1-5,text,true,,106585,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2741,0,0
+1646598046386,3197,Climate Request,200,OK,Project Demo 1-19,text,true,,108124,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,160,0,0
+1646598046386,160,Climate Request-0,301,Moved Permanently,Project Demo 1-19,text,true,,1531,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,160,0,0
+1646598046547,3036,Climate Request-1,200,OK,Project Demo 1-19,text,true,,106593,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2977,0,0
+1646598046427,3211,Climate Request,200,OK,Project Demo 1-6,text,true,,108118,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,129,0,0
+1646598046427,129,Climate Request-0,301,Moved Permanently,Project Demo 1-6,text,true,,1533,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,129,0,0
+1646598046556,3082,Climate Request-1,200,OK,Project Demo 1-6,text,true,,106585,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2991,0,0
+1646598046295,3384,Climate Request,200,OK,Project Demo 1-8,text,true,,108122,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,177,0,0
+1646598046295,177,Climate Request-0,301,Moved Permanently,Project Demo 1-8,text,true,,1531,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,177,0,0
+1646598046472,3207,Climate Request-1,200,OK,Project Demo 1-8,text,true,,106591,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3131,0,0
+1646598046579,3168,Climate Request,200,OK,Project Demo 1-7,text,true,,108126,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,94,0,0
+1646598046579,94,Climate Request-0,301,Moved Permanently,Project Demo 1-7,text,true,,1541,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,94,0,0
+1646598046674,3073,Climate Request-1,200,OK,Project Demo 1-7,text,true,,106585,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,2742,0,0
+1646598046502,3253,Climate Request,200,OK,Project Demo 1-16,text,true,,108120,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,99,0,0
+1646598046502,99,Climate Request-0,301,Moved Permanently,Project Demo 1-16,text,true,,1537,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,99,0,0
+1646598046601,3154,Climate Request-1,200,OK,Project Demo 1-16,text,true,,106583,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3073,0,0
+1646598046406,3461,Climate Request,200,OK,Project Demo 1-10,text,true,,108122,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,190,0,0
+1646598046406,191,Climate Request-0,301,Moved Permanently,Project Demo 1-10,text,true,,1535,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,190,0,0
+1646598046597,3270,Climate Request-1,200,OK,Project Demo 1-10,text,true,,106587,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3209,0,0
+1646598046357,3528,Climate Request,200,OK,Project Demo 1-9,text,true,,108114,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,170,0,0
+1646598046357,170,Climate Request-0,301,Moved Permanently,Project Demo 1-9,text,true,,1533,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,170,0,0
+1646598046527,3358,Climate Request-1,200,OK,Project Demo 1-9,text,true,,106581,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3301,0,0
+1646598046391,3597,Climate Request,200,OK,Project Demo 1-18,text,true,,108118,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,196,0,0
+1646598046391,196,Climate Request-0,301,Moved Permanently,Project Demo 1-18,text,true,,1537,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,196,0,0
+1646598046587,3401,Climate Request-1,200,OK,Project Demo 1-18,text,true,,106581,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3342,0,0
+1646598046446,3564,Climate Request,200,OK,Project Demo 1-22,text,true,,108120,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,115,0,0
+1646598046446,115,Climate Request-0,301,Moved Permanently,Project Demo 1-22,text,true,,1537,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,115,0,0
+1646598046561,3449,Climate Request-1,200,OK,Project Demo 1-22,text,true,,106583,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3391,0,0
+1646598046455,3722,Climate Request,200,OK,Project Demo 1-24,text,true,,108122,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,143,0,0
+1646598046455,143,Climate Request-0,301,Moved Permanently,Project Demo 1-24,text,true,,1535,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,143,0,0
+1646598046598,3579,Climate Request-1,200,OK,Project Demo 1-24,text,true,,106587,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3507,0,0
+1646598046397,4101,Climate Request,200,OK,Project Demo 1-2,text,true,,108122,296,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,204,0,0
+1646598046397,204,Climate Request-0,301,Moved Permanently,Project Demo 1-2,text,true,,1533,148,25,25,http://www.fibaro.com/en/smart-home-in-use/smart-hvac/,204,0,0
+1646598046601,3897,Climate Request-1,200,OK,Project Demo 1-2,text,true,,106589,148,25,25,https://www.fibaro.com/en/smart-home-in-use/smart-hvac/,3784,0,0

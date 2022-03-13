@@ -1,0 +1,76 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1646598047524,2805,Lights Request,200,OK,Project Demo 1-3,text,true,,119024,306,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,95,0,0
+1646598047524,95,Lights Request-0,301,Moved Permanently,Project Demo 1-3,text,true,,1542,153,25,25,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,95,0,0
+1646598047620,2709,Lights Request-1,200,OK,Project Demo 1-3,text,true,,117482,153,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2676,0,0
+1646598050011,356,Lights Request,200,OK,Project Demo 1-22,text,true,,118991,306,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,94,0,0
+1646598050011,94,Lights Request-0,301,Moved Permanently,Project Demo 1-22,text,true,,1548,153,25,25,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,94,0,0
+1646598050105,262,Lights Request-1,200,OK,Project Demo 1-22,text,true,,117443,153,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,229,0,0
+1646598050178,268,Lights Request,200,OK,Project Demo 1-24,text,true,,118995,306,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,100,0,0
+1646598050178,100,Lights Request-0,301,Moved Permanently,Project Demo 1-24,text,true,,1550,153,25,25,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,100,0,0
+1646598050279,167,Lights Request-1,200,OK,Project Demo 1-24,text,true,,117445,153,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,137,0,0
+1646598047566,2929,Lights Request,200,OK,Project Demo 1-11,text,true,,119036,306,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,120,0,0
+1646598047566,120,Lights Request-0,301,Moved Permanently,Project Demo 1-11,text,true,,1546,153,25,25,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,120,0,0
+1646598047687,2808,Lights Request-1,200,OK,Project Demo 1-11,text,true,,117490,153,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2781,0,0
+1646598050499,633,Lights Request,200,OK,Project Demo 1-2,text,true,,118987,306,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,331,0,0
+1646598050499,331,Lights Request-0,301,Moved Permanently,Project Demo 1-2,text,true,,1540,153,25,25,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,331,0,0
+1646598050830,302,Lights Request-1,200,OK,Project Demo 1-2,text,true,,117447,153,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,253,0,0
+1646598048562,2760,Lights Request,200,OK,Project Demo 1-20,text,true,,119026,306,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,108,0,0
+1646598048562,108,Lights Request-0,301,Moved Permanently,Project Demo 1-20,text,true,,1540,153,25,25,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,108,0,0
+1646598048671,2651,Lights Request-1,200,OK,Project Demo 1-20,text,true,,117486,153,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2618,0,0
+1646598048592,2909,Lights Request,200,OK,Project Demo 1-14,text,true,,119034,306,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,170,0,0
+1646598048592,170,Lights Request-0,301,Moved Permanently,Project Demo 1-14,text,true,,1548,153,25,25,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,170,0,0
+1646598048762,2739,Lights Request-1,200,OK,Project Demo 1-14,text,true,,117486,153,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2703,0,0
+1646598049364,2226,Lights Request,200,OK,Project Demo 1-5,text,true,,119032,306,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,97,0,0
+1646598049364,97,Lights Request-0,301,Moved Permanently,Project Demo 1-5,text,true,,1546,153,25,25,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,97,0,0
+1646598049462,2128,Lights Request-1,200,OK,Project Demo 1-5,text,true,,117486,153,25,25,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2099,0,0
+1646598049034,2745,Lights Request,200,OK,Project Demo 1-13,text,true,,119018,306,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,100,0,0
+1646598049034,100,Lights Request-0,301,Moved Permanently,Project Demo 1-13,text,true,,1536,153,23,23,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,100,0,0
+1646598049134,2645,Lights Request-1,200,OK,Project Demo 1-13,text,true,,117482,153,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2355,0,0
+1646598049257,2554,Lights Request,200,OK,Project Demo 1-12,text,true,,119032,306,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,106,0,0
+1646598049257,106,Lights Request-0,301,Moved Permanently,Project Demo 1-12,text,true,,1548,153,23,23,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,106,0,0
+1646598049364,2447,Lights Request-1,200,OK,Project Demo 1-12,text,true,,117484,153,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2406,0,0
+1646598048820,3071,Lights Request,200,OK,Project Demo 1-25,text,true,,119030,306,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,99,0,0
+1646598048820,99,Lights Request-0,301,Moved Permanently,Project Demo 1-25,text,true,,1546,153,23,23,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,99,0,0
+1646598048920,2971,Lights Request-1,200,OK,Project Demo 1-25,text,true,,117484,153,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2927,0,0
+1646598049680,2649,Lights Request,200,OK,Project Demo 1-8,text,true,,119022,306,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,99,0,0
+1646598049680,99,Lights Request-0,301,Moved Permanently,Project Demo 1-8,text,true,,1538,153,23,23,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,99,0,0
+1646598049779,2550,Lights Request-1,200,OK,Project Demo 1-8,text,true,,117484,153,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2038,0,0
+1646598049584,2764,Lights Request,200,OK,Project Demo 1-19,text,true,,119022,306,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,124,0,0
+1646598049584,124,Lights Request-0,301,Moved Permanently,Project Demo 1-19,text,true,,1538,153,23,23,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,124,0,0
+1646598049708,2640,Lights Request-1,200,OK,Project Demo 1-19,text,true,,117484,153,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2616,0,0
+1646598049083,3294,Lights Request,200,OK,Project Demo 1-21,text,true,,119036,306,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,104,0,0
+1646598049083,104,Lights Request-0,301,Moved Permanently,Project Demo 1-21,text,true,,1540,153,23,23,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,104,0,0
+1646598049187,3190,Lights Request-1,200,OK,Project Demo 1-21,text,true,,117496,153,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2955,0,0
+1646598049639,2742,Lights Request,200,OK,Project Demo 1-6,text,true,,119024,306,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,95,0,0
+1646598049639,95,Lights Request-0,301,Moved Permanently,Project Demo 1-6,text,true,,1548,153,23,23,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,95,0,0
+1646598049734,2647,Lights Request-1,200,OK,Project Demo 1-6,text,true,,117476,153,23,23,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2644,0,0
+1646598048985,3415,Lights Request,200,OK,Project Demo 1-23,text,true,,119024,306,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,113,0,0
+1646598048985,113,Lights Request-0,301,Moved Permanently,Project Demo 1-23,text,true,,1538,153,22,22,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,113,0,0
+1646598049099,3301,Lights Request-1,200,OK,Project Demo 1-23,text,true,,117486,153,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,3261,0,0
+1646598048843,3560,Lights Request,200,OK,Project Demo 1-17,text,true,,119030,306,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,99,0,0
+1646598048843,99,Lights Request-0,301,Moved Permanently,Project Demo 1-17,text,true,,1542,153,22,22,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,99,0,0
+1646598048942,3461,Lights Request-1,200,OK,Project Demo 1-17,text,true,,117488,153,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,3354,0,0
+1646598048884,3565,Lights Request,200,OK,Project Demo 1-1,text,true,,119026,306,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,96,0,0
+1646598048884,96,Lights Request-0,301,Moved Permanently,Project Demo 1-1,text,true,,1546,153,22,22,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,96,0,0
+1646598048980,3469,Lights Request-1,200,OK,Project Demo 1-1,text,true,,117480,153,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2832,0,0
+1646598049279,3171,Lights Request,200,OK,Project Demo 1-15,text,true,,119034,306,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,104,0,0
+1646598049279,104,Lights Request-0,301,Moved Permanently,Project Demo 1-15,text,true,,1542,153,22,22,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,104,0,0
+1646598049383,3067,Lights Request-1,200,OK,Project Demo 1-15,text,true,,117492,153,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,3067,0,0
+1646598049756,2740,Lights Request,200,OK,Project Demo 1-16,text,true,,119034,306,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,101,0,0
+1646598049756,101,Lights Request-0,301,Moved Permanently,Project Demo 1-16,text,true,,1550,153,22,22,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,101,0,0
+1646598049858,2638,Lights Request-1,200,OK,Project Demo 1-16,text,true,,117484,153,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2534,0,0
+1646598049885,2627,Lights Request,200,OK,Project Demo 1-9,text,true,,119022,306,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,104,0,0
+1646598049885,104,Lights Request-0,301,Moved Permanently,Project Demo 1-9,text,true,,1540,153,22,22,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,104,0,0
+1646598049989,2523,Lights Request-1,200,OK,Project Demo 1-9,text,true,,117482,153,22,22,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2342,0,0
+1646598049989,2686,Lights Request,200,OK,Project Demo 1-18,text,true,,119032,306,21,21,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,95,0,0
+1646598049989,95,Lights Request-0,301,Moved Permanently,Project Demo 1-18,text,true,,1548,153,21,21,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,95,0,0
+1646598050085,2590,Lights Request-1,200,OK,Project Demo 1-18,text,true,,117484,153,21,21,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2429,0,0
+1646598049748,3387,Lights Request,200,OK,Project Demo 1-7,text,true,,119018,306,21,21,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,109,0,0
+1646598049748,109,Lights Request-0,301,Moved Permanently,Project Demo 1-7,text,true,,1540,153,21,21,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,109,0,0
+1646598049858,3277,Lights Request-1,200,OK,Project Demo 1-7,text,true,,117478,153,21,21,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2680,0,0
+1646598048754,4553,Lights Request,200,OK,Project Demo 1-4,text,true,,119030,306,21,21,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,105,0,0
+1646598048754,106,Lights Request-0,301,Moved Permanently,Project Demo 1-4,text,true,,1550,153,21,21,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,105,0,0
+1646598048860,4447,Lights Request-1,200,OK,Project Demo 1-4,text,true,,117480,153,21,21,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,3707,0,0
+1646598049868,3823,Lights Request,200,OK,Project Demo 1-10,text,true,,119032,306,21,21,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,112,0,0
+1646598049868,112,Lights Request-0,301,Moved Permanently,Project Demo 1-10,text,true,,1540,153,21,21,http://www.fibaro.com/en/smart-home-in-use/the-smart-light/,112,0,0
+1646598049980,3711,Lights Request-1,200,OK,Project Demo 1-10,text,true,,117492,153,21,21,https://www.fibaro.com/en/smart-home-in-use/the-smart-light/,2483,0,0
